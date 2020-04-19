@@ -8,7 +8,7 @@ Os links de acesso ao conteúdo e à comunidade no discord, possuem o atributo :
   <img src="/public/index.png" width="" />
 </p>
 
-No link relacioado aos conteúdos, temos 3 cartões com informações resumidas sobre cada curso oferecido pela Rocketseat. 
+No link relacionado aos conteúdos, temos 3 cartões com informações resumidas sobre cada curso oferecido pela Rocketseat. 
 
 <p align="center">
   <img src="/public/classes.png" width="" />
